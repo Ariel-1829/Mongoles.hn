@@ -1,0 +1,39 @@
+body{
+	background-color: #99CCFF;
+nav{
+	padding: 7px;
+	margin: 0px;
+}
+#header{
+	margin: auto;
+	width: 800px;
+}
+ul, ol{
+	list-style: none;
+}
+.nav li a {
+	background-color: #FF0000;
+	color: #FFFF00;
+	text-decoration: groove;
+	padding: 10px 15px;
+	display: block;
+}
+.nav > li{
+	float: left;
+}
+.nav li a:hover{
+	background-color: #FFFFFF;
+}
+ .franja{
+	font size: 40px;
+	background-color: red;
+	color:#7F69A5;
+	padding: 10px;
+	border-radius: 25px;
+}
+p{
+	font-family: "Times new roman";
+	font-size: 15px;
+	text-align: justify;
+}
+	
